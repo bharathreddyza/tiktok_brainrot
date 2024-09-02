@@ -1,0 +1,60 @@
+install ffmgpeg
+ Install ImageMagick:
+Download from: https://imagemagick.org/script/download.php#windows
+During installation, ensure you check the option to install legacy utilities.
+C:\Program Files\ImageMagick-7.1.1-Q16-HDRI
+
+/////torch 
+pip install torch==2.3.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+- India is the world's largest democracy, with over 900 million eligible voters in 2019. Expect even more in 2024.
+- The General Elections will determine the members of the 18th Lok Sabha, the lower house of India's Parliament.
+- India's elections are conducted in multiple phases, lasting over a month due to its sheer size and diversity.
+- EVMs (Electronic Voting Machines) used in Indian elections can capture votes for up to 64 candidates, including NOTA (None of the Above) option.
+- Nearly 1 million polling stations are set up across the country, often in remote villages and even on mountain tops.
+- The biggest electoral issue? Jobs, economic growth, and healthcare are expected to dominate the debates. 
+Stay tuned, as 2024 promises to be a historic year for Indian democracy!
+Detected language: English
+100%|████████████████████████████████████████████████████████████| 5419/5419 [00:16<00:00, 334.01frames/s] 
+[((0, 0.68), 'Fascinating'), ((0.68, 1.28), 'facts about'), ((1.28, 2.06), 'the 2024'), ((2.06, 2.52), 'Indian'), ((2.52, 2.92), 'elections'), ((2.92, 4.6), 'India is'), ((4.6, 5.12), "the world's"), ((5.12, 5.44), 'largest'), ((5.44, 6.38), 'democracy with'), ((6.38, 7.06), 'over 900'), ((7.06, 7.52), 'million'), ((7.52, 8.36), 'eligible voters'), ((8.36, 9.12), 'in 2019'), ((9.12, 10.98), 'Expect even'), ((10.98, 12.04), 'more in 2024'), ((12.04, 13.68), 'The general'), ((13.68, 14.4), 'elections will'), ((14.4, 15.0), 'determine the'), ((15.0, 15.22), 'members of'), ((15.22, 16.04), 'the 18th'), ((16.04, 16.62), 'Lok Sabha'), ((16.62, 17.1), 'the lower'), ((17.1, 17.34), 'house of'), ((17.34, 17.88), "India's"), ((17.88, 18.28), 'parliament'), ((18.28, 19.74), "India's"), ((19.74, 20.06), 'elections are'), ((20.06, 20.64), 'conducted in'), ((20.64, 21.24), 'multiple'), ((21.24, 22.3), 'phases lasting'), ((22.3, 22.74), 'over a month'), ((22.74, 23.36), 'due to its'), ((23.36, 23.76), 'sheer size'), ((23.76, 24.78), 'and diversity'), ((24.78, 26.94), 'EVMs electronic'), ((26.94, 27.7), 'voting machines'), ((27.7, 28.38), 'used in Indian'), ((28.38, 29.12), 'elections can'), ((29.12, 29.76), 'capture votes'), ((29.76, 30.32), 'for up to'), ((30.32, 31.56), '64 candidates'), ((31.56, 32.16), 'including'), ((32.16, 32.6), 'no-da none'), ((32.6, 33.2), 'of the above'), ((33.2, 33.92), 'option Nearly'), ((33.92, 35.48), 'one million'), ((35.48, 35.78), 'polling'), ((35.78, 36.52), 'stations are'), ((36.52, 36.98), 'set up across'), ((36.98, 37.62), 'the country'), ((37.62, 37.98), 'often in'), ((37.98, 38.9), 'remote villages'), ((38.9, 39.32), 'and even'), ((39.32, 40.1), 'on mountain'), ((40.1, 40.4), 'tops The'), ((40.4, 40.76), 'biggest'), ((40.76, 42.22), 'electoral'), ((42.22, 42.7), 'issue Jobs'), ((42.7, 44.98), 'economic growth'), ((44.98, 45.36), 'and health'), ((45.36, 45.86), 'care are'), ((45.86, 46.21), 'expected to'), ((46.21, 46.9), 'dominate the'), ((46.9, 47.42), 'debates Stay'), ((47.42, 47.72), 'tuned as'), ((47.72, 49.74), '2024 promises'), ((49.74, 50.9), 'to be a'), ((50.9, 51.42), 'historic year'), ((51.42, 52.1), 'for Indian'), ((52.1, 52.57), 'democracy')]
+Content Script: Fascinating facts about the 2024 Indian elections:
+- India is the world's largest democracy, with over 900 million eligible voters in 2019. Expect even more in 2024.
+- The General Elections will determine the members of the 18th Lok Sabha, the lower house of India's Parliament.
+- India's elections are conducted in multiple phases, lasting over a month due to its sheer size and diversity.
+- EVMs (Electronic Voting Machines) used in Indian elections can capture votes for up to 64 candidates, including NOTA (None of the Above) option.
+- Nearly 1 million polling stations are set up across the country, often in remote villages and even on mountain tops.
+- The biggest electoral issue? Jobs, economic growth, and healthcare are expected to dominate the debates. 
+Stay tuned, as 2024 promises to be a historic year for Indian democracy!
+Timed Captions:((0, 0.68), 'Fascinating')((0.68, 1.28), 'facts about')((1.28, 2.06), 'the 2024')((2.06, 2.52), 'Indian')((2.52, 2.92), 'elections')((2.92, 4.6), 'India is')((4.6, 5.12), "the world's")((5.12, 5.44), 'largest')((5.44, 6.38), 'democracy with')((6.38, 7.06), 'over 900')((7.06, 7.52), 'million')((7.52, 8.36), 'eligible voters')((8.36, 9.12), 'in 2019')((9.12, 10.98), 'Expect even')((10.98, 12.04), 'more in 2024')((12.04, 13.68), 'The general')((13.68, 14.4), 'elections will')((14.4, 15.0), 'determine the')((15.0, 15.22), 'members of')((15.22, 16.04), 'the 18th')((16.04, 16.62), 'Lok Sabha')((16.62, 17.1), 'the lower')((17.1, 17.34), 'house of')((17.34, 17.88), "India's")((17.88, 18.28), 'parliament')((18.28, 19.74), "India's")((19.74, 20.06), 'elections are')((20.06, 20.64), 'conducted in')((20.64, 21.24), 'multiple')((21.24, 22.3), 'phases lasting')((22.3, 22.74), 'over a month')((22.74, 23.36), 'due to its')((23.36, 23.76), 'sheer size')((23.76, 24.78), 'and diversity')((24.78, 26.94), 'EVMs electronic')((26.94, 27.7), 'voting machines')((27.7, 28.38), 'used in Indian')((28.38, 29.12), 'elections can')((29.12, 29.76), 'capture votes')((29.76, 30.32), 'for up to')((30.32, 31.56), '64 candidates')((31.56, 32.16), 'including')((32.16, 32.6), 'no-da none')((32.6, 33.2), 'of the above')((33.2, 33.92), 'option Nearly')((33.92, 35.48), 'one million')((35.48, 35.78), 'polling')((35.78, 36.52), 'stations are')((36.52, 36.98), 'set up across')((36.98, 37.62), 'the country')((37.62, 37.98), 'often in')((37.98, 38.9), 'remote villages')((38.9, 39.32), 'and even')((39.32, 40.1), 'on mountain')((40.1, 40.4), 'tops The')((40.4, 40.76), 'biggest')((40.76, 42.22), 'electoral')((42.22, 42.7), 'issue Jobs')((42.7, 44.98), 'economic growth')((44.98, 45.36), 'and health')((45.36, 45.86), 'care are')((45.86, 46.21), 'expected to')((46.21, 46.9), 'dominate the')((46.9, 47.42), 'debates Stay')((47.42, 47.72), 'tuned as')((47.72, 49.74), '2024 promises')((49.74, 50.9), 'to be a')((50.9, 51.42), 'historic year')((51.42, 52.1), 'for Indian')((52.1, 52.57), 'democracy')
+
+Text ```json [ [[0.0, 2.06], ["2024 Indian elections", "Fascinating facts"]], [[2.06, 4.6], ["world's largest democracy"]], [[4.6, 7.06], ["900 million voters"]], [[7.06, 9.12], ["2019 elections"]], [[9.12, 12.04], ["more voters 2024"]], [[12.04, 15.22], ["18th Lok Sabha"]], [[15.22, 17.34], ["lower house Parliament"]], [[17.34, 20.64], ["multiple election phases"]], [[20.64, 23.36], ["lasting over month"]], [[23.36, 26.94], ["size and diversity"]], [[26.94, 29.12], ["electronic voting machines"]], [[29.12, 31.56], ["64 candidates EVM"]], [[31.56, 33.92], ["None of the Above"]], [[33.92, 36.52], ["one million polling"]], [[36.52, 38.9], ["remote villages"]], [[38.9, 40.4], ["mountain polling"]], [[40.4, 42.7], ["biggest electoral issue"]], [[42.7, 44.98], ["jobs economic growth"]], [[44.98, 46.9], ["healthcare debates"]], [[46.9, 49.74], ["stay tuned 2024"]], [[49.74, 52.57], ["historic year democracy"]] ] ```
+Expecting value: line 1 column 1 (char 0)
+error in response Expecting ',' delimiter: line 1 column 89 (char 88)
+None
+No background video
+Traceback (most recent call last):
+  File "C:\Users\lenovo\Desktop\Text-To-Video-AI-main\app.py", line 42, in <module>
+    background_video_urls = merge_empty_intervals(background_video_urls)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Desktop\Text-To-Video-AI-main\utility\video\video_search_query_generator.py", line 83, in merge_empty_intervals
+    while i < len(segments):
+              ^^^^^^^^^^^^^
+TypeError: object of type 'NoneType' has no len()
+
+
+
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Desktop\bounty\server\app.py", line 66, in conversation
+    result = loop.run_until_complete(process_conversation(conversation[0], SAMPLE_FILE_NAME, voice1, voice2))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Desktop\bounty\server\utility\audio\convo_Generator.py", line 68, in process_conversation
+    audio_files = await generate_conversation_audio(convo,voice1,voice2)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Desktop\bounty\server\utility\audio\convo_Generator.py", line 50, in generate_conversation_audio
+    for person, text in item.items():
+                        ^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'items'

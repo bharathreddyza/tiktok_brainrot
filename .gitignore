@@ -1,0 +1,31 @@
+# Environment files
+.env
+.env.local
+env/
+
+# Virtual environment files
+venv/
+.venv/
+
+# Sensitive data files
+database.ini
+api_keys.txt
+
+# Log files
+logs/
+log.txt
+
+# Temporary files
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Dependency files
+node_modules/
+package-lock.json
+
+# IDE-specific files
+.idea/
+.vscode/
+.pycharm/
+myenv
