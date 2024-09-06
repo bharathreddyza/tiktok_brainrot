@@ -41,7 +41,11 @@
       python ytd.py
 
       ```
-    
+   6. change this line to the location of the videos folder in your local device 
+       ```
+      videos_folder_path = r'C:\Users\lenovo\Desktop\bounty\server\videos'
+
+      ```
 
    6. Start the server and frontend:
       ```

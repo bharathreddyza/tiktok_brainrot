@@ -164,7 +164,7 @@ def create_tiktok_conversation_video(timestamps, conversation, audio_file_path, 
         print("Error: No messages were matched. Check your timestamps and conversation data.")
         return
     
-    # add paths
+    # add your local path paths
     videos_folder_path = r'C:\Users\lenovo\Desktop\bounty\server\videos'
 
     audio_file_path = os.path.join(os.getcwd(),audio_file_path)
