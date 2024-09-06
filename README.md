@@ -47,7 +47,7 @@
 
       ```
 
-   6. Start the server and frontend:
+   7. Start the server and frontend:
       ```
      
       cd frontend
@@ -58,7 +58,7 @@
       python app.py
       ```
 
-   7. Open the browser and navigate to `http://localhost:3000`
+   8. Open the browser and navigate to `http://localhost:3000`
 
  
  
